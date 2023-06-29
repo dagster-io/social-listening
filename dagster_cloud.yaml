@@ -1,0 +1,4 @@
+locations:
+  - location_name: social_listening
+    code_source:
+      package_name: social_listening
