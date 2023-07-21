@@ -5,7 +5,7 @@ This is a [Dagster](https://dagster.io/) project scaffolded with [`dagster proje
 
 | High-level  | Dagster UI |
 | ------------- | ------------- |
-| ![diagram](https://github.com/dagster-io/social-listening/assets/4531914/9e730635-23d7-4308-a682-bbaa089d13ed) | ![ui](https://github.com/dagster-io/social-listening/assets/4531914/03e21bbb-48bd-42b1-83d5-201b30be5db3) |
+| ![diagram](https://github.com/dagster-io/social-listening/assets/4531914/ecd8a96c-33bd-431a-9560-80a2c0047b02) | ![ui](https://github.com/dagster-io/social-listening/assets/4531914/9b480a88-fef8-4b70-be1a-d98535a11deb) |
 
 ## Getting started
 
